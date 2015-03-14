@@ -1,7 +1,7 @@
 # hardware
 The repo for BBP hardware.
 
-License: CC-BY-SA
+Licence: CC-BY-SA
 http://creativecommons.org/licenses/by-sa/4.0/
 
 Features:

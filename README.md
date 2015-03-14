@@ -34,10 +34,13 @@ Extensibility
 -	Serial connector to print debug log
 -	Lots of pins broken out, including step, direction and enable pins for the stepper drivers
 
-Inspired by the priors:
-Beagleboard.org
+Inspired by the priors who have done a lot of great jobs before.
+
+BeagleBone Black
+Author: Beagleboard.org
 http://beagleboard.org/
 
 replicape
+Author: Elias Bakken
 http://www.thing-printer.com/
 
